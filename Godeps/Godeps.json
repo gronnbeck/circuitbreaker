@@ -1,0 +1,35 @@
+{
+	"ImportPath": "github.com/gronnbeck/circuitbreaker",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/clipperhouse/set",
+			"Rev": "c425a638bbb3034eaa3dfe8c2f0f4bc29129b7fc"
+		},
+		{
+			"ImportPath": "github.com/clipperhouse/slice",
+			"Rev": "3ae82e00044e045370183e264317ec785b8f0da3"
+		},
+		{
+			"ImportPath": "github.com/clipperhouse/stringer",
+			"Rev": "a8382ce6af9a129cab27e7595ef44a4c2b817360"
+		},
+		{
+			"ImportPath": "github.com/clipperhouse/typewriter",
+			"Rev": "30db35657b7cdb37c23e6b8ffc81fedd6c0c10e0"
+		},
+		{
+			"ImportPath": "golang.org/x/tools/go/ast/astutil",
+			"Rev": "86ad1193da6aba71355e71191641b9cfb26daa67"
+		},
+		{
+			"ImportPath": "golang.org/x/tools/go/gcimporter15",
+			"Rev": "86ad1193da6aba71355e71191641b9cfb26daa67"
+		},
+		{
+			"ImportPath": "golang.org/x/tools/imports",
+			"Rev": "86ad1193da6aba71355e71191641b9cfb26daa67"
+		}
+	]
+}
